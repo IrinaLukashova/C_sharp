@@ -1,0 +1,15 @@
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/bin/Debug/net6.0/Cshzadachnik
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/bin/Debug/net6.0/Cshzadachnik.deps.json
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/bin/Debug/net6.0/Cshzadachnik.runtimeconfig.json
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/bin/Debug/net6.0/Cshzadachnik.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/bin/Debug/net6.0/Cshzadachnik.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.csproj.AssemblyReference.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.AssemblyInfoInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.AssemblyInfo.cs
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/refint/Cshzadachnik.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/Cshzadachnik.genruntimeconfig.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik/obj/Debug/net6.0/ref/Cshzadachnik.dll

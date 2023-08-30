@@ -1,0 +1,15 @@
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/bin/Debug/net6.0/Cshzadachnik13
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/bin/Debug/net6.0/Cshzadachnik13.deps.json
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/bin/Debug/net6.0/Cshzadachnik13.runtimeconfig.json
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/bin/Debug/net6.0/Cshzadachnik13.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/bin/Debug/net6.0/Cshzadachnik13.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.csproj.AssemblyReference.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.AssemblyInfoInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.AssemblyInfo.cs
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/refint/Cshzadachnik13.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/Cshzadachnik13.genruntimeconfig.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Cshzadachnik13/obj/Debug/net6.0/ref/Cshzadachnik13.dll

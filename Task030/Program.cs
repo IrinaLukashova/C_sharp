@@ -18,11 +18,11 @@ int[] userArray = GetRandomArray();
 void PrintArray(int[] array)
 {
     System.Console.Write("[");
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length - 1; i++)
     {
         System.Console.Write($"{array[i]} ");
     }
-    System.Console.WriteLine("]");
+    System.Console.WriteLine($"{array[array.Length -1]}]");
 }
 PrintArray(userArray);
 

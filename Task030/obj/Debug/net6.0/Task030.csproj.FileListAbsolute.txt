@@ -1,0 +1,15 @@
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.csproj.AssemblyReference.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.AssemblyInfoInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.AssemblyInfo.cs
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/bin/Debug/net6.0/Task030
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/bin/Debug/net6.0/Task030.deps.json
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/bin/Debug/net6.0/Task030.runtimeconfig.json
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/bin/Debug/net6.0/Task030.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/bin/Debug/net6.0/Task030.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/refint/Task030.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/Task030.genruntimeconfig.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task030/obj/Debug/net6.0/ref/Task030.dll

@@ -1,0 +1,15 @@
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.csproj.AssemblyReference.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.AssemblyInfoInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.AssemblyInfo.cs
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/bin/Debug/net6.0/Task058
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/bin/Debug/net6.0/Task058.deps.json
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/bin/Debug/net6.0/Task058.runtimeconfig.json
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/bin/Debug/net6.0/Task058.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/bin/Debug/net6.0/Task058.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/refint/Task058.dll
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.pdb
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/Task058.genruntimeconfig.cache
+/Users/irina/Desktop/GB/C_sharp/C#/Task058/obj/Debug/net6.0/ref/Task058.dll
